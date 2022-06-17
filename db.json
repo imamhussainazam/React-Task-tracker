@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "Meeting at IIT",
+      "day": "Feb 6th at 1:30pm",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Create a project",
+      "day": "Feb 7th at 3:30pm",
+      "reminder": true
+    },
+    {
+      "text": "Do a better project",
+      "day": "7th June at 11:59pm",
+      "reminder": true,
+      "id": 5
+    }
+  ]
+}
